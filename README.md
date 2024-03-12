@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ethernaute
+👋 Hi, I’m @Ethernaute
 
-- 🌱 I’m currently learning AI
-- 📫 How to reach me : las.ethel@gmail.com 
+🌱 I’m currently learning AI
+📫 How to reach me : las.ethel@gmail.com 
